@@ -42,4 +42,6 @@ def convert_base(num, n):
 
 
 
-
+def factorial(n):
+    
+    
